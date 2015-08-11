@@ -41,3 +41,6 @@ Appendix A: Exercises
 	A.2 Deconcentration over a colored number table
 	
 	A.3 Deconcentration over a visual field
+	
+	
+觉得有问题[点击这里](https://github.com/dopcn/deconcentration-of-attention-cn/issues/new)
