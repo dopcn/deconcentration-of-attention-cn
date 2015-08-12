@@ -4,7 +4,7 @@ Chinese version of http://deconcentration-of-attention.com/
 
 [Introduction](http://blog.fengweizhou.com/2015/08/12/deconcentration-of-attention-1/)
 
-1. Background vs. Figure
+[1. Background vs. Figure](http://blog.fengweizhou.com/2015/08/12/deconcentration-of-attention-2/)
 
 2. Pure Semantics vs. Verbalization
 
