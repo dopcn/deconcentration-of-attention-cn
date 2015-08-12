@@ -6,6 +6,7 @@ tags:
 ---
 
 > 原文：http://deconcentration-of-attention.com/
+> 翻译 repo：https://github.com/dopcn/deconcentration-of-attention-cn
 
 #分散注意力：应对软件工程的复杂度
 
