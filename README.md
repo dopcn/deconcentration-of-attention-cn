@@ -36,11 +36,11 @@ Bibliography
 
 Appendix A: Exercises
 	
-	A.1 Concentration
+A.1 Concentration
 	
-	A.2 Deconcentration over a colored number table
+A.2 Deconcentration over a colored number table
 	
-	A.3 Deconcentration over a visual field
+A.3 Deconcentration over a visual field
 	
 	
 觉得有问题[这里](https://github.com/dopcn/deconcentration-of-attention-cn/issues/new)
